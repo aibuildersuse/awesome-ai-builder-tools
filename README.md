@@ -27,7 +27,9 @@ Full ranking with reasons: [What AI builders use for vibe coding](https://aibuil
 - [Bolt.new](https://bolt.new) - StackBlitz's in-browser AI app builder. ([ranking](https://aibuildersuse.com/tools/bolt))
 - [Lovable](https://lovable.dev) - Browser-based AI app builder with Supabase integration and GitHub sync. ([ranking](https://aibuildersuse.com/tools/lovable))
 - [Replit Agent](https://replit.com) - Build and host in the browser with an AI agent. ([ranking](https://aibuildersuse.com/tools/replit-agent))
+- [Base44](https://base44.com) - Vibe-code apps, sites, and agents with the stack built in. ([ranking](https://aibuildersuse.com/tools/base44))
 - [Windsurf (Devin Desktop)](https://windsurf.com) - Cognition's agentic IDE (formerly Windsurf, now Devin Desktop). ([ranking](https://aibuildersuse.com/tools/windsurf))
+- [Google Antigravity](https://antigravity.google) - Google's agentic IDE, CLI, and agent platform. ([ranking](https://aibuildersuse.com/tools/antigravity))
 - [v0](https://v0.app) - Vercel's AI UI generator. ([ranking](https://aibuildersuse.com/tools/v0))
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - Anthropic's agentic coding tool for the terminal and IDEs. ([ranking](https://aibuildersuse.com/tools/claude-code))
 - [Aider](https://aider.chat) - Open-source AI pair programmer in the terminal. ([ranking](https://aibuildersuse.com/tools/aider))
@@ -39,6 +41,7 @@ Agents that read your repo, edit files, run commands, and leave you with a diff 
 
 Full ranking with reasons: [What AI builders use as coding agents](https://aibuildersuse.com/rankings/coding-agents).
 
+- [OpenAI Codex](https://developers.openai.com/codex) - OpenAI's coding agent for the terminal, IDE, desktop app and cloud. ([ranking](https://aibuildersuse.com/tools/codex))
 - [Claude](https://claude.ai) - Anthropic's AI assistant and model family, with apps and an API. ([ranking](https://aibuildersuse.com/tools/claude))
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer in your IDE and on GitHub. ([ranking](https://aibuildersuse.com/tools/github-copilot))
 - [ChatGPT](https://chatgpt.com) - OpenAI's general-purpose AI assistant. ([ranking](https://aibuildersuse.com/tools/chatgpt))
