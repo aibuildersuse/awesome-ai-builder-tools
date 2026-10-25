@@ -97,6 +97,7 @@ AI reviewers and debuggers that catch what your coding agent missed before users
 
 Full ranking with reasons: [What AI builders use for testing, code review and debugging](https://aibuildersuse.com/rankings/testing-debugging).
 
+- [agent-qa](https://vostride.com) - Runs plain-language tests for web, Android, and iOS through CLI and MCP, with persistent memory and validated self-improvement.
 - [CodeRabbit](https://www.coderabbit.ai) - AI code reviews on every pull request. ([ranking](https://aibuildersuse.com/tools/coderabbit))
 - [Greptile](https://www.greptile.com) - AI code reviewer that understands your whole codebase. ([ranking](https://aibuildersuse.com/tools/greptile))
 - [Qodo](https://www.qodo.ai) - Agentic code review and code quality platform. ([ranking](https://aibuildersuse.com/tools/qodo))
